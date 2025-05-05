@@ -32,6 +32,8 @@ Last update: 2024-05-05
   * :manual:`MySQL <database-mysql>`
   * :manual:`domains <web-domains>`
 
+.. warning:: This setup from this guide has an `issue with the VisualEditor extension <https://phabricator.wikimedia.org/T380885>`_, and possibly others. This issue is tracked in the `Uberspace Github <https://github.com/Uberspace/lab/issues/1845>`_.
+
 License
 =======
 
